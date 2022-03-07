@@ -1,0 +1,6 @@
+E:\Ali\Aes Csharp\AesCrypto\bin\Debug\AesCrypto.dll
+E:\Ali\Aes Csharp\AesCrypto\bin\Debug\AesCrypto.pdb
+E:\Ali\Aes Csharp\AesCrypto\obj\Debug\AesCrypto.csproj.CoreCompileInputs.cache
+E:\Ali\Aes Csharp\AesCrypto\obj\Debug\AesCrypto.dll
+E:\Ali\Aes Csharp\AesCrypto\obj\Debug\AesCrypto.pdb
+E:\Ali\Aes Csharp\AesCrypto\obj\Debug\AesCrypto.csproj.AssemblyReference.cache

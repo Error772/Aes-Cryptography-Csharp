@@ -1,0 +1,6 @@
+E:\Ali\Aes Csharp\AesCrypto\bin\Release\AesCrypto.dll
+E:\Ali\Aes Csharp\AesCrypto\bin\Release\AesCrypto.pdb
+E:\Ali\Aes Csharp\AesCrypto\obj\Release\AesCrypto.csproj.CoreCompileInputs.cache
+E:\Ali\Aes Csharp\AesCrypto\obj\Release\AesCrypto.dll
+E:\Ali\Aes Csharp\AesCrypto\obj\Release\AesCrypto.pdb
+E:\Ali\Aes Csharp\AesCrypto\obj\Release\AesCrypto.csproj.AssemblyReference.cache
