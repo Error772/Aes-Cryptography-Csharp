@@ -63,8 +63,8 @@ Console.WriteLine(">> Decrypted Text [ECB] : " + DecryptedECB + "\n\n");
 Console.WriteLine(">> Encrypted Text [CBC Random IV] : " + EncryptedCBC_RandomIV + "\n\n");
 Console.WriteLine(">> Encrypted Text [CBC] : " + EncryptedCBC);
 Console.WriteLine(">> Decrypted Text [CBC] : " + DecryptedCBC);
-Console.WriteLine("\n>> Dev : T.me/Ali_Cod7\n\n");
+Console.WriteLine("\n>> Dev : T.me/Error772\n\n");
 ```
 ---
 
-- ### **Telegram ID : [Ali_Cod7](https://T.me/Ali_Cod7)**
+- ### **Telegram ID : [Error772](https://T.me/Error772)**
